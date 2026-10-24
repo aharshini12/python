@@ -1,6 +1,6 @@
 Student: Harshini A
-Register number: Please verify the register number printed on your assignment page before submitting.
-Python: 3.10+ recommended
+Register number: 1912260702
+Python: 3.12.3
 Libraries: Python standard library only (decimal, time, math, sys)
 
 
